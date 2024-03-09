@@ -49,7 +49,7 @@ describe ("Grading Tests: ", function () {
 
    it("CSS funParagraph class is green", function() {
       expect(css.includes(".funParagraph")).toBe(true);
-      expect(css.includes("color: green;")).toBe(true);
+     expect(css.includes("color: green;")).toBe(true);
    })
 
    it("CSS mainHeading id is red", function() {

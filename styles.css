@@ -1,1 +1,103 @@
+body {
+    background-color: dimgrey;
+    margin: 8px;
+    display: block;
+
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+    font-size: 24px;
+    background-color: dimgrey;
+    border-style: solid;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+#testP {
+    color: black;
+}
+
+
+/*main {
+    border-style:solid;
+}*/
+
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+div {
+    background-color: coral;
+    border-style: solid;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.creepY {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+
+p {
+    color: black;
+    text-align: center;
+    font-family: Cambria;
+    font-size: 25px;
+    margin-right: 140px;
+    margin-left: 80px;
+    padding: 25px 140px 35px 70px;
+    background-color: white;
+
+}
+
+
+#gloomyParagraph {
+    color: red;
+    font-family: Cochin;
+    font-size: 40px;
+    padding-right: 150px;
+    padding-left: 80px;
+    background-color: black;
+}
+
+
+
+
+
+#callMe {
+    text-align: left;
+    background-color: white;
+    border-style: solid;
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
 /* Write your CSS here! */
